@@ -1,0 +1,18 @@
+Du skal lave en opslagstavle i Android/XCode som indeholder mindst 3 selfies. Der er
+følgende krav til opgaven:
+Krav til opgaven:
++ Du skal tage et selfie med kameraet på telefonen.
+- Selfien skal kunne gemmes/hentes via et webAPI (hvis ikke lykkes gem bare på mobil)
+
++- Alle selfies skal gemmes lokalt på enheden og læses op i en liste 
+(når billder tages ligges de pt i en liste i hukommelsen og der lægges en kopi i gallery på telefonen)
+
++ Der skal være et menusystem hvor man kan vælge de forskellige usecases (tag ny selfie, hvis opslagstavlen, tag alle selfies af tavlen, etc..)
++ Du skal lave det således at du kan flytte rundt på billederne
++ Der skal være et event (knap/link) til at tage samtlige billeder af tavlen og starte forfra.
++ Appen skal være responsiv i både landscape og portrait visning
++ Koden skal som altid dokumenteres på engelsk og tilfredsstillende!
+Ønskelige features:
++ Det vil være en klar forbedring hvis du kan resize billederne i App’en
++- Det vil være en klar forbedring hvis billederne kan ligges oven på hinanden i en
+collage. (de ligger i en række følge de bliver lagt in zindex messigt så kan ligges over)
